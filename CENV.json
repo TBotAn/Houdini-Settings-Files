@@ -1,7 +1,7 @@
 {
   "env": [
-    {"ANIKE": "C:/Users/UserName/Dropbox/Nike/03 Production/01 Assets/3D"},
-    {"RNIKE": "C:/Users/UserName/Dropbox/Nike/03 Production/03 Renders/3D"}
+    {"ANIKE": "C:/Users/UserName/Dropbox/Nike/02 Sandbox/01 Assets/3D"},
+    {"RNIKE": "C:/Users/UserName/Dropbox/Nike/02 Sandbox/03 Renders/3D"}
   ],
   "path": [
     "$ANIKE",
